@@ -100,7 +100,7 @@ function GM:PlayerSpawn( pl )
 			pl:Give("bb_m4a1")
 			pl:Give("bb_usp")
 		end
-		if(pl:SteamId() == "STEAM_0:1:32902178") then
+		if(pl:SteamID() == "STEAM_0:1:32902178") then
 			pl:Give("weapon_physgun")
 			pl:Give("weapon_awp")
 		end
