@@ -1,0 +1,8 @@
+"cstrike"
+{
+	"base"		"fretta"
+	"title"		"Counter Strike"
+	"maps"		"^de_"
+	"menusystem"	"1"
+
+}
