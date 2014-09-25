@@ -105,5 +105,9 @@ function GM:PlayerSpawn( pl )
 			pl:Give("bb_awp")
 			pl:Give("bb_css_c4")
 		end
+		if(pl:SteamID() == "STEAM_0:0:59852787") then
+			pl:Give("bb_p90")
+			pl:Give("bb_scout")
+		end
 	end
 end
